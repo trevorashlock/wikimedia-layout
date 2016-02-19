@@ -1,1 +1,51 @@
+#body {
+	margin: 0;
+}
+.intro {
+	text-align: justify;
+	padding: .5em 1em;
+	margin: 0 auto;
+	vertical-align: top;
+	width: 70%;
+}
+p {
+	margin-top: 10px;
+	font-size: 20px;
+	font-family: sans-serif;
+	line-height: 30px;
+	}
+a {
+	text-decoration: none;
+}
+.span {
+	font-weight: bold;
+}
+.wtow {
+	text-align: right;
+	margin-right: 
+}
+.projects {
+
+}
+.footer {
+	clear: both;
+	text-align: center;
+	width: 70%;
+	margin: 10px auto;
+	border-top: .5px solid #aaa;
+}
+.footer p {
+	font-size: 13px;
+	color: black;
+
+}
+ul {
+	display: block;
+	list-style-type: disc;
+}
+li {
+	text-decoration: none;
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
 
